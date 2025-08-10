@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.app-bg {
+  background: linear-gradient(135deg, #fffbe6 0%, #ffe0b2 100%);
+  min-height: 100vh;
+}
+
+.card-container {
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  border-radius: 1.5rem;
+  background: #fff;
+}
+
+.font-montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
